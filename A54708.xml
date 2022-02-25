@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second apology for the Protestants of Ireland, by the author of the first shewing the necessity of their flight and desertion : and that the present destruction of Ireland hath conduced to the safety and preservation of England : in a letter to Sir. O. S.</title>
+            <author>Philips, George, 1599?-1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54708</idno>
+            <idno type="STC">Wing P2028</idno>
+            <idno type="STC">ESTC R6417</idno>
+            <idno type="EEBO-CITATION">13502094</idno>
+            <idno type="OCLC">ocm 13502094</idno>
+            <idno type="VID">99788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 472:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second apology for the Protestants of Ireland, by the author of the first shewing the necessity of their flight and desertion : and that the present destruction of Ireland hath conduced to the safety and preservation of England : in a letter to Sir. O. S.</title>
+                  <author>Philips, George, 1599?-1696.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tim Goodwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: G. P.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="apology">
+            <pb facs="tcp:99788:1" rendition="simple:additions"/>
+            <pb facs="tcp:99788:1" rendition="simple:additions"/>
+            <head>THE Second Apology FOR THE PROTESTANTS OF IRELAND, By the Author of the Firſt. SHEWING The Neceſſity of their Flight and Deſertion; And that the preſent Deſtruction of <hi>Ireland</hi> hath con<g ref="char:EOLhyphen"/>duced to the Safety and Preſervation of <hi>England.</hi>
+            </head>
+            <head type="sub">
+               <hi>In a Letter to Sir</hi> O. S.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU have done me that Injury which you never intended me; you have deprived me of a Nights<g ref="char:EOLhyphen"/>ſleep. For while I revolved in my mind your Diſ<g ref="char:EOLhyphen"/>courſe concerning the <hi>Proteſtants of Ireland;</hi> the moſt uncharitable judgment paſt upon their <hi>Afflictions;</hi> and the too viſible diſregard of their <hi>Perſons,</hi> and ſlight eſteem of their <hi>ſer<g ref="char:EOLhyphen"/>vice;</hi> I could gain no reſt to my thoughts, nor ſlumber to my eyes.</p>
+            <p>That the <hi>Proteſtants of Ireland</hi> prompted by an ill-tim'd aver<g ref="char:EOLhyphen"/>ſion to the <hi>Popiſh Religion,</hi> and precipitated by an over-haſty zeal for their <hi>own,</hi> have abandon'd their Habitations and Pro<g ref="char:EOLhyphen"/>perties, and become Sojourners in other Lands; and thereby are expoſed to the <hi>charity and compaſſion</hi> of ſome, and to the
+<pb facs="tcp:99788:2" rendition="simple:additions"/>
+               <hi>ſcorn and contempt</hi> of others; is ſo notoriouſly evident, that it needs no Arguments to enforce the proof of it; but that their Retreat into <hi>England</hi> and <hi>Scotland,</hi> and a prudential Endea<g ref="char:EOLhyphen"/>vour for ſelf-preſervation, ſhould be ſo unkindly interpreted, and their Behaviour ſubjected to a Cenſure ſo groundleſs, and ſo unequal; is no way conſonant to the calm dictates of Rea<g ref="char:EOLhyphen"/>ſon, nor reconcileable to the common ſentiments of Humani<g ref="char:EOLhyphen"/>ty. To hear them ſtigmatized by their Enemies with the ugly Character of Rebels and Traytors; proſcribed by Proclama<g ref="char:EOLhyphen"/>tion, their Eſtates confiſcated, their Goods plunder'd, and their Houſes and Plantations burnt and deſtroy'd, is ſupporta<g ref="char:EOLhyphen"/>ble from the Glory and Satisfaction of ſuffering in a good Cauſe; to hear them condemn'd and curs'd by their implaca<g ref="char:EOLhyphen"/>ble Enemies the Papiſts; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r lamented by the invidious pity of lukewarm and male-contented Proteſtants (who under a pre<g ref="char:EOLhyphen"/>tence of a nice, and undiſpenſible Allegiance, do grumble at the <hi>preſent</hi> Government, yet from their Hearts dare not wiſh it in the hands of another) is neither the ſubject of their won<g ref="char:EOLhyphen"/>der nor trouble. But that any Proteſtants of <hi>England</hi> (whom the Ligaments of the ſame Religion and Blood have inſepara<g ref="char:EOLhyphen"/>bly conjoyn'd in one Intereſt) ſhould diſcover not only an in<g ref="char:EOLhyphen"/>ſenſibility of our miſeries; but aggravate them by Miſpriſion and contempt; not only arraign our <hi>Actions,</hi> but miſ-judge our <hi>Sufferings;</hi> is a contemplation ſo abſtruſe, and ſo grievous, that it would require the <hi>wiſdom of Solomon</hi> to underſtand it, and the <hi>Patience of Job</hi> to bear it. Yet all this is out done by a meer ſenſible ſtroke of misfortune; we are upbraided with the King's <hi>Indifferency</hi> toward us (to give it no worſe a name). And becauſe for Reaſons and Conſiderations beſt known to himſelf, he hath thought it fit to command the Service of Strangers and Foreigners, while the Gentlemen of <hi>Ireland</hi> walk the Streets neglected, and unimploy'd; it is maliciouſly impu<g ref="char:EOLhyphen"/>ted to his diſlike of their Proceedings; as if unconſtrain'd, and out of pure wantonneſs they had left their own Country, to take the Air in this; deſerted the conveniency of a cheap <hi>dwelling at Home;</hi> to pay dear for <hi>Lodgings in London;</hi> given up their Stock and Wealth to the luſt of their <hi>Enemies,</hi> only to make Experiment of the <hi>mercy of their Friends;</hi> caſt off the Homage of their Tenants, and trifled away their own <hi>Revenue,</hi> only to become Penſioners to the <hi>Poor-mans</hi> Box, and the <hi>Brief-money.</hi>
+            </p>
+            <pb n="3" facs="tcp:99788:2"/>
+            <p>To undeceive that ſort of men, who are miſled by Informa<g ref="char:EOLhyphen"/>tion, and whoſe judgments are not diſtorted by prejudice, deſign or paſſion, I offer the merit of the following <hi>Conſiderations.</hi>
+            </p>
+            <p>Firſt, <hi>That</hi> Ireland <hi>was actually under the Dominion and Exerciſe of Popery, when</hi> England <hi>was only perplexed with the proſpect and ap<g ref="char:EOLhyphen"/>prehenſion of it.</hi>
+            </p>
+            <p n="2">2ly, <hi>That there lay a neceſſity upon the Proteſtants of</hi> Ireland <hi>to re<g ref="char:EOLhyphen"/>linquiſh and fly, or to comply and ſubmit.</hi>
+            </p>
+            <p n="3">3ly, <hi>That the Submiſſion and Compliance of the Proteſtants in</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>had unavoidably tended to the ruin of</hi> England.</p>
+            <p n="4">4ly, <hi>That the Ruin and Deſtruction of</hi> Ireland <hi>has proved the means, and occaſion of ſaving and preſerving</hi> England.</p>
+            <p n="5">5ly, <hi>That the Proteſtants of</hi> Ireland <hi>had begun later, or perſever'd longer in their Oppoſition to the Popiſh Government, if they had not been aſſured of Succours and Supplies from</hi> England, <hi>and diſappointed in their expectation.</hi>
+            </p>
+            <p n="6">6ly, <hi>That the general adherence of the Proteſtants in</hi> England <hi>to King</hi> William <hi>at his Landing, was not ſo important in the Enterprize, nor ſo advantageous in the Event, as the Univerſal Defection of the Pro<g ref="char:EOLhyphen"/>teſtants in</hi> Ireland <hi>from King</hi> James, <hi>before and after his Arrival there.</hi>
+            </p>
+            <p>But that I may not proceed Dogmatically, or be ſuſpected of ſo much Arrogance, as to look for an implicite Aſſent to theſe Aſſertions, without a more ſatisfactory Explication of them: I ſhall endeavour to illuſtrate the <hi>Particulars</hi> very faithfully, and very briefly.</p>
+            <p n="1">1. To demonſtrate the firſt, there needs little pains to be ta<g ref="char:EOLhyphen"/>ken; he that will read the <hi>Apology for the Proteſtants of Ireland,</hi> and that exquiſite Treatiſe call'd <hi>Mephiboſeth and Ziba,</hi> and other Papers written ſince the late Revolution, will eaſily be convinced of the Truth of one part of that Propoſition, the other part is ſo freſh in every mans memory, that it were a vanity to inſiſt upon the proof of it. The <hi>Proteſtants in Ireland</hi> were not only diſarm'd, and their Arms put into the hands of the <hi>Papiſts;</hi> the Military and Civil Liſt compounded of furious and inveterate Bigots; the <hi>Act of Settlement</hi> eluded, and the Corporations poyſon'd with a Crew of Landleſs, Lawleſs, ſenſeleſs Intruders; but in deſpight and ſcorn of the Law, the Fopperies of the <hi>Maſs</hi> were openly re<g ref="char:EOLhyphen"/>preſented, the Properties of the Church invaded, and the Land infeſted with Swarms of Jeſuits, Friers, and all ſorts and Orders of Regulars; while <hi>England</hi> was only alarm'd with the humming noiſe of the approaching danger, and awakened to a timely Pre<g ref="char:EOLhyphen"/>paration
+<pb n="4" facs="tcp:99788:3"/>againſt the ſecret Mines to overthrow her <hi>Charters,</hi> and the frequent Attacks made upon the <hi>Teſt and Penal Laws.</hi>
+            </p>
+            <p n="2">2. Now when by the permiſſion of Divine Providence, and the ſubtil contrivance of thoſe in Authority, the poor <hi>Proteſtants of Ireland</hi> were rendred defenceleſs, and utterly uncapable to make Reſiſtance; they muſt indubitably be reduced to that fatal Di<g ref="char:EOLhyphen"/>lemma of complying with the Government, or withdrawing from the malevolent influence and tyranny of it.</p>
+            <p n="3">3. But had they been beſotted with a ſupine ſubmiſſion to ſuch exorbitant Incroachments; had they continued in their Poſſeſſi<g ref="char:EOLhyphen"/>ons, and truckled to the Arbitrary Commands of thoſe inſolent <hi>Popiſh Baſhaws;</hi> how had the Hands of the <hi>late King</hi> been ſtreng<g ref="char:EOLhyphen"/>thened? his Army readily maintain'd by plentiful Contributions, and continually ſupported by freſh Recruits? nay had they been indulged to remain in a cold <hi>Neutrality,</hi> and permitted only to be Lookers on (as in all probability the dread of their Number and Strength, would have induced the other chearfully and gladly to conſent) what viſible Impediment can there appear to have hin<g ref="char:EOLhyphen"/>dred the Invaſion of <hi>England</hi> by a numerous and potent Army? the ſucceſs whereof tho it had not terminated in a plenary Con<g ref="char:EOLhyphen"/>queſt (which God grant may never be the fate of that renowned and happy Country) yet the ruin and deſolation that would have attended the Impreſſions of a rejected Prince, ſeconded by the re<g ref="char:EOLhyphen"/>morſeleſs Troops of barbarous <hi>Iriſh and French</hi> (who have ſufficient<g ref="char:EOLhyphen"/>ly teſtified the delight they take in Burning and Devaſtation) is not lyable to the deſcription of any Pen. If the obſtinate ſtanding out of that ſingle City of <hi>London Derry</hi> gave ſo wonderful a Diver<g ref="char:EOLhyphen"/>ſion to the Enemies Progreſs; how ſwiftly had he moved, and without controll, to the reinſtating himſelf in the Thrones of <hi>Scot<g ref="char:EOLhyphen"/>land and England;</hi> if the Gates of that place had not been ſhut, and the <hi>Iriſh</hi> Garriſon had been admitted in it? If the Courage of thoſe gallant Refugees in <hi>Eniskillin</hi> had been allay'd by a Compli<g ref="char:EOLhyphen"/>ance and Submiſſion on Terms of the greateſt Advantage; the forlorn party that invaded <hi>Scotland</hi> had ſwell'd to a vaſt Army, mi<g ref="char:EOLhyphen"/>ſerably embroil'd that Kingdom, and done irreparable <hi>damage to this.</hi>
+            </p>
+            <p n="4">4. The Proof and Confirmation of the next Aſſertion is couch'd and comprehended in the former. If ſome of the <hi>Proteſtants of Ire<g ref="char:EOLhyphen"/>land</hi> had not conſiderately removed themſelves with their Plate, Money and Effects, by a lucky foreſight of the Tragical Conſe<g ref="char:EOLhyphen"/>quences of their ſtay. If others (out of an abhorrence of Popery, and concurring with the Reſolutions of <hi>England</hi>) had not volun<g ref="char:EOLhyphen"/>tatily
+<pb n="5" facs="tcp:99788:3"/>renounced their Allegiance to a depoſed <hi>King,</hi> broken up Houſe, retrenched their Families, disbanded their Followers, and with much difficulty and hazard tranſplanted their Perſons into <hi>England and Scotland;</hi> it is apparent how conſiderable an Acceſſion this had brought to the preſent Poſſeſſor; whereas by the ſubſtra<g ref="char:EOLhyphen"/>ction of their wealth, and the withdrawing their Perſons, the <hi>Iriſh</hi> Intereſt has been in a great meaſure impaired, tho to the unſpea<g ref="char:EOLhyphen"/>kable detriment of them that eſcaped. To this let me add, that if the confident aſſurance of the intire poſſeſſion of <hi>Ireland,</hi> and there<g ref="char:EOLhyphen"/>by ſecuring a Retreat, and Harbour for the <hi>French</hi> Fleet, had not amuſed that unfortunate Prince, and prorogued the Invaſion of <hi>England</hi> (which beyond doubt can never be ſafe while <hi>Ireland</hi> is ſubjected to its Enemy) he had long ſince diſputed his Title upon the ſpot, and endeavoured to retaliate that vengeance upon the <hi>Engliſh,</hi> which has been intail'd on the <hi>Iriſh</hi> Families, and tranſmit<g ref="char:EOLhyphen"/>ted from one Generation to another ſince the time of <hi>their Conqueſt.</hi>
+            </p>
+            <p n="5">5. To evince the Truth of what is next aſſerted, I muſt appeal to the Gentlemen of the ſeveral Provinces in <hi>Ireland,</hi> whether they were not continually flatter'd with promiſes of <hi>Commiſſions, Men, Money and Arms from England;</hi> whether every puff of wind that a<g ref="char:EOLhyphen"/>roſe from any point of the <hi>Eaſt</hi> or <hi>South,</hi> did not infuſe freſh life into their drooping Spirits? Whether they did not hourly expect the Landing of ſome <hi>Engliſh</hi> or <hi>Dutch</hi> Forces to cover and conduct them, while the ſame methods practiſed in <hi>England</hi> for the reſtitu<g ref="char:EOLhyphen"/>tion and eſtabliſhment of Religion, might be reacted there? It was this that animated and inſpired the Inhabitants of <hi>London-Derry</hi> (the laſt ſtake and pledg of the <hi>Proteſtant Intereſt in Ireland</hi>) with ſo much precipitation to ſhut their Gates, and keep out a <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> Regiment juſt approaching to enter the City, upon the ſeventh day of <hi>December</hi> 1688, and ſtoutly to maintain it, till by Capitu<g ref="char:EOLhyphen"/>lation it was made a <hi>Proetſtant Garriſon.</hi> This encouraged the Peo<g ref="char:EOLhyphen"/>ple of <hi>Eniskillin,</hi> in imitation of them, to ſhut their Gates on the 11th. of <hi>December</hi> following, and to refuſe the Entrance of two <hi>Iriſh</hi> Companies, appointed to have their Quarters there. This made the <hi>Proteſtants in Munſter</hi> aſſemble with what Horſe and Foot they could call together, to avoid a <hi>Maſſacre,</hi> and to joyn with ſuch For<g ref="char:EOLhyphen"/>ces from <hi>England,</hi> as might reſcue them from the Tyranny and Slavery under which they lay proſtrate. This occaſion'd the <hi>Aſſò<g ref="char:EOLhyphen"/>ciation</hi> publiſh'd in <hi>Conaght</hi> by the <hi>Lord Kingſton</hi> and the <hi>Proteſtants</hi> who had been plunder'd of their Goods and Stock, and were for<g ref="char:EOLhyphen"/>ced for ſafety of their Lives, to retreat to <hi>Sligo,</hi> no way doubting
+<pb n="6" facs="tcp:99788:4"/>of immediate ſuccour and relief from <hi>England.</hi> This brought forth that <hi>Declaration</hi> of the Gentlemen in the Counties of <hi>Down,</hi> and <hi>Antrim,</hi> who having imploy'd Agents into <hi>England,</hi> and received repeated Aſſurances of a ſpeedy and vigorous Aſſiſtance, began to form themſelves into Regiments, and to prepare for their De<g ref="char:EOLhyphen"/>fence againſt a vaſt <hi>Iriſh Army</hi> then formed, and threatning to break in upon them. Thus in all Parts the <hi>Protestants</hi> ſtood up<g ref="char:EOLhyphen"/>on their Guard, longing, and languiſhing for Help and Relief from <hi>England:</hi> but miſerably failing in their expectation, and the <hi>Iriſh Army</hi> preſſing into their Frontiers, while they were utterly deſtituté of Arms and Ammunition, the Men raw and undiſci<g ref="char:EOLhyphen"/>plin'd, and no experienced Commanders among them; they were conſtrain'd to fly before their bloody and inraged Ene<g ref="char:EOLhyphen"/>mies, leaving their Houſes furniſh'd, and their Goods and Stock as a Prey to them: which in all humane Probability had eaſily been prevented, if they had not depended on the promiſed Aid from <hi>England.</hi>
+            </p>
+            <p n="6">6. I have no intent to leſſen or extenuate the noble Underta<g ref="char:EOLhyphen"/>king, and prudent Conduct of the <hi>Lords and Gentlemen of England,</hi> in their Invitation, and Conjunction with the <hi>Prince</hi> of <hi>Orange,</hi> to redeem the Nation from the Tyranny of Pope<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Slavery, and Ar<g ref="char:EOLhyphen"/>bitrary Government; and placing the preſent <hi>King</hi> in the <hi>vacant Throne</hi> of Him, who ſpontaneouſly <hi>Abdicated the Government.</hi> It was a glorious, and a grateful Action; all the <hi>Proteſtants</hi> in <hi>Europe</hi> rejoyce at it; and Poſterity will praiſe their Doings. Neverthe<g ref="char:EOLhyphen"/>leſs I am bold to ſay, that the publick appearance of the <hi>Prote<g ref="char:EOLhyphen"/>ſtants in England,</hi> to abet the Deſign of <hi>King William,</hi> and to fol<g ref="char:EOLhyphen"/>low His Fortune, was neither ſo important at the Time of acting, nor of ſuch Advantage in the Conſequences, to incourage the <hi>Proteſtant</hi> Party, and to diſ-animate the <hi>Popiſh:</hi> as the early and univerſal Defection of the <hi>Proteſtants in Ireland</hi> from the Command and Government of the <hi>late King James.</hi> This will appear evident<g ref="char:EOLhyphen"/>ly, if we conſider the State and Circumſtances of the two King<g ref="char:EOLhyphen"/>doms, and, ſetting both in a true Light, paſs an impartial Judg<g ref="char:EOLhyphen"/>ment on each of them. When the <hi>Prince of Orange</hi> arrived in <hi>En<g ref="char:EOLhyphen"/>gland,</hi> He came into a Country, where <hi>Popery</hi> was an uneaſie Nu<g ref="char:EOLhyphen"/>ſance, obtruded by Craft, and diffuſed in Corners; where there was a Royal Army on Foot of Principles quite contrary to it; and the Number of <hi>Proteſtants</hi> exceeded that of the <hi>Papiſts,</hi> in the Proportion of Two hundred to one: Whereas, when <hi>King James</hi> Landed in <hi>Ireland,</hi> He found Popery predominant, and eſtabliſh<g ref="char:EOLhyphen"/>ed
+<pb n="7" facs="tcp:99788:4"/>by <hi>Force,</hi> tho' againſt <hi>Law;</hi> an Army of Forty thouſand deſpe<g ref="char:EOLhyphen"/>rate Papiſts, under the Command of bigotted and inexorable Lea<g ref="char:EOLhyphen"/>ders, with a Rabble of as many, arm'd (tho' not for Fighting, yet) for Rapine and Plunder, and which ſerved as a Seminary for the furniſhing of Recruits; the Papiſts exceeding the Proteſtants in Number, more than three to one. In <hi>England,</hi> tho' the Militia was diſcountenanced, and diſuſed from Exerciſe, yet they re<g ref="char:EOLhyphen"/>tain'd their Arms; and the <hi>Proteſtants</hi> through the Kingdom kept what they had, without Inſpection, or Prohibition; and they continued Maſters of their own Horſes: whereas in <hi>Ireland</hi> the <hi>Proteſtants</hi> were utterly diſarm'd, (thoſe of the <hi>Church of England</hi> by a ſtrict Proclamation requiring all Officers of the Militia to deliver in the Arms of their Troops and Companies into the next Store, under a ſevere Penalty; and the <hi>Diſſenters</hi> by a poſitive Order from the Government to take away all Arms from ſuch as did not go to Church) their Horſes taken from them, not leaving a pad Nag to ride on, and proſecuted as Rebels, upon Refuſal. It is true, in <hi>England</hi> there was an Invaſion made upon their <hi>Char<g ref="char:EOLhyphen"/>ters,</hi> and Men were here and there thruſt in of looſe and Atheiſti<g ref="char:EOLhyphen"/>cal Principles; ſome injurious and illegal Attempts were made on the <hi>Univerſities;</hi> and the Reverend <hi>Biſhops</hi> (the Pillars of the Church, and Champions of our Religion) were affronted, and im<g ref="char:EOLhyphen"/>peached; the <hi>Magiſtracy</hi> was cloſetted, threatned, and ſome arbi<g ref="char:EOLhyphen"/>trarily ſuperſeded; at the Helm of Government ſome were prickt in, who being actuated by no Inſtinct of Conſcience, or Honour, joyn'd in a Conſpiracy againſt the Laws and Liberty of the Coun<g ref="char:EOLhyphen"/>try, and, like inanimate Tools, were imploy'd in the Propagation of the <hi>Catholick Cauſe:</hi> but in <hi>Ireland</hi> the <hi>Corporations</hi> were ſtuff'd with <hi>Iriſh Papiſts,</hi> with Rebels, and the Sons of thoſe Murdering Rebels in 1641; tho' <hi>Prieſts</hi> were not actually inſtituted and induct<g ref="char:EOLhyphen"/>ed into the <hi>Church Livings,</hi> yet they were placed in every <hi>Pariſh,</hi> and the <hi>Maſs-Houſe</hi> confronted the <hi>Church;</hi> tho' <hi>Popiſh Biſhops</hi> were not actually inaugurated in the <hi>Sees,</hi> yet they received the Profits of vacant <hi>Biſhopricks;</hi> the Revenue was managed by Papiſts; the Commiſſion of the Peace entruſted to them, and generally to them only; the Sword of State placed in the hands of the <hi>Earl</hi> of <hi>Tyr<g ref="char:EOLhyphen"/>connel;</hi> and the Majority of the <hi>Privy-Council</hi> made up of ſworn Enemies to the <hi>Proteſtant Religion:</hi> So that to work a Change in <hi>England,</hi> was neither ſo difficult nor hazardous in the Attempt, nor ſo remarkable in the Revolution; as the bold Adventure of the <hi>Protestants in Ireland</hi> under all Moral and Political Diſabilities to
+<pb n="8" facs="tcp:99788:5"/>capacitate them for ſuch an Undertaking. And whereas the Ac<g ref="char:EOLhyphen"/>clamations of the People in <hi>England,</hi> the Deſertion of the Army, and the general adherence of the Nobility and Gentry to the <hi>Prince of Orange</hi> at His Landing, prevented a Civil War, and the Effuſion of Blood, and the <hi>preſent King</hi> became quietly veſted in the Throne, and Government; the univerſal Defection of the <hi>Protestants in Ireland</hi> aſſured and eſtabliſhed Him in the Poſſeſſi<g ref="char:EOLhyphen"/>on; ſince by theſe means <hi>King James</hi> was not onely deprived of the Aid and Strength of <hi>Two hundred thouſand Men,</hi> but by the ſtout oppoſition made in <hi>London-Derry, Eniskillin,</hi> and other Pla<g ref="char:EOLhyphen"/>ces, His Affairs were wholly embroyl'd, His Deſigns fruſtrated, and his determin'd Invaſion of <hi>Scotland,</hi> and an uninterrupted Progreſs into <hi>England,</hi> abſolutely prevented, and defeated.</p>
+            <p>It is altogether ſuperfluous in me to offer theſe Things to your Conſideration, who have ſo great a Senſe and Knowledge of Affairs, and are better furniſhed with uſeful Notions and Remarks upon all Publick Tranſactions. But I have done it to comply with your Commands: and if you will give your Self the Trou<g ref="char:EOLhyphen"/>ble to ſuperviſe and correct this haſty and imperfect Eſſay, and render it fit for the View of others; poſſibly they may be con<g ref="char:EOLhyphen"/>vinced, that the Proteſtants in <hi>Ireland</hi> have ſuper-errogated in their Zeal to Religion and the preſent Government, tho' they have been <hi>Self Homicides of their own Fortunes and Estates;</hi> and that they do unqueſtionably deſerve rather to be reputed Living Martyrs for their Religion and their King, than to be traduced with a need<g ref="char:EOLhyphen"/>leſs Removal of their Perſons hither, and an unaccountable Rea<g ref="char:EOLhyphen"/>ſon of their ſtay here. And I am no leſs confident, that when it ſhall pleaſe His Majeſty to ſuffer Himſelf to be undeceived, He will find it requiſite to countenance and ſmile upon a great Number of Men, who to their own certain Ruin, and without the leaſt pro<g ref="char:EOLhyphen"/>ſpect of future Advantage, have abandon'd all, and run into a vo<g ref="char:EOLhyphen"/>luntary Exile, to ſerve Him, or to avoid the Neceſſity of ſerving His Enemy; and that he will judge it expedient, if not neceſſary, to put Armies into their Hands, (who beſt know how to deal with the <hi>Iriſh</hi>) whom <hi>Self-Interest</hi> corroborated by immovable <hi>Fidelity</hi> and <hi>Loyalty,</hi> will inſpire with an Opportunity to promote the ſpeedy and effectual Reduction of the miſerably haraſſed Kingdom. I am,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Your most Humble Servant,</hi>
+G. P.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi rend="blackletterType">Licens'd,</hi> Jan. 27. 1689/90. <hi>J. F.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tim. Goodwin</hi> at the <hi>Maiden-head</hi> in <hi>Fleet-ſtreet.</hi> 1690.</p>
+            <pb facs="tcp:99788:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
